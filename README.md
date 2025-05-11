@@ -1,4 +1,4 @@
-# 🧠 AI JARVIS – Your Smart Document & Voice Assistant
+# 🧠 AI JARVIS – Your Smart Document Assistant
 
 AI JARVIS is an intelligent, full-stack assistant inspired by Iron Man’s J.A.R.V.I.S. It helps users manage documents and extract insights using natural language commands, OCR, and LLMs — all with voice or text input.
 
