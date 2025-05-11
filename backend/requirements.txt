@@ -1,0 +1,12 @@
+flask
+flask-cors
+openai==0.28
+pinecone
+python-dotenv
+textract
+pdf2image
+pytesseract
+Pillow
+azure-cognitiveservices-speech
+pydub
+six
